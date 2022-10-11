@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @LEBASI
+- 👀 I’m interested in partnering as a full-service digital consultancy firm creating bold and ambitious digital solutions that deliver real impact today while serving as a strong foundation for future growth.
+- 🌱 I’m currently learning UI/UX design
+- 💞️ I’m looking to collaborate on web and mobile application development
+- 📫 You can reach me via dev.lebasi@gmail.com
